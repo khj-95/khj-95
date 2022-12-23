@@ -1,5 +1,4 @@
-### Introduce
-안녕하세요! 백엔드 개발자 김현진입니다.🙌
+### Hi 🙌
 <!--
 **khj-95/khj-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
